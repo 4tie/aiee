@@ -3,8 +3,12 @@ dist
 .DS_Store
 server/public
 vite.config.ts.*
-*.tar.gzuserdata/settings.json
+*.tar.gz
 *.db
+.local/
+.env
+.env.local
+.env.*.local
 .git_backup/
 userdata/
 attached_assets/
